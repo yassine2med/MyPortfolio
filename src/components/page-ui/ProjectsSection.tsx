@@ -14,9 +14,9 @@ const products = [
         thumbnail: '/projects/Ecomerce-Gaming.png'
     },
     {
-        title: 'Alfamines',
-        link: 'https://alfamines.com/',
-        thumbnail: '/projects/Alfamines.jpg'
+        title: 'KOORALIFE',
+        link: 'https://kooralife.com/matches/4366917',
+        thumbnail: '/projects/KooraLife.png'
     },
     {
         title: 'Bank Alerts',
@@ -25,9 +25,9 @@ const products = [
     },
 
     {
-        title: 'KOORALIFE',
-        link: 'https://kooralife.com/matches/4366917',
-        thumbnail: '/projects/KooraLife.png'
+        title: 'Alfamines',
+        link: 'https://alfamines.com/',
+        thumbnail: '/projects/Alfamines.jpg'
     },
     {
         title: 'Portfolio',
