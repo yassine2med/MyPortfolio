@@ -15,7 +15,7 @@ const products = [
     {
         title: 'KOORALIFE',
         link: 'https://kooralife.com/matches/4366917',
-        thumbnail: '/projects/kooraLife.png'
+        thumbnail: '/projects/KooraLife.png'
     },
     {
         title: 'Bank Alerts',
