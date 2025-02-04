@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React from 'react';
 
 import { HeroParallax } from '@/components/ui/hero-paralax';
@@ -13,9 +14,9 @@ const products = [
         thumbnail: '/projects/Ecomerce-Gaming.png'
     },
     {
-        title: 'KOORALIFE',
-        link: 'https://kooralife.com/matches/4366917',
-        thumbnail: '/projects/KooraLife.png'
+        title: 'Alfamines',
+        link: 'https://alfamines.com/',
+        thumbnail: '/projects/Alfamines.jpg'
     },
     {
         title: 'Bank Alerts',
@@ -24,9 +25,9 @@ const products = [
     },
 
     {
-        title: 'Alfamines',
-        link: 'https://alfamines.com/',
-        thumbnail: '/projects/Alfamines.jpg'
+        title: 'KOORALIFE',
+        link: 'https://kooralife.com/matches/4366917',
+        thumbnail: '/projects/KooraLife.png'
     },
     {
         title: 'Portfolio',
